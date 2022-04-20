@@ -1,0 +1,3 @@
+module.exports = {
+  extends: ["./lint/eslintrc-gjs.yml","./lint/eslintrc-shell.yml"]
+}
